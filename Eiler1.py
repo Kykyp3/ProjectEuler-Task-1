@@ -9,4 +9,3 @@ for i in range(1, potolok):
         print("Перебор...{}".format(summa))
 else:
     print(summa)
-i
